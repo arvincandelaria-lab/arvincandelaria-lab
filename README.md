@@ -46,23 +46,23 @@
 
 ### 📊 Data Analysis Portfolio
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A collection of data analysis projects demonstrating data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization using Excel, Python, SQL, and Power BI.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performed data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization using Excel, Python, SQL, and Power BI to identify patterns, trends, and actionable insights from datasets.</p>
 
 ### 📈 Statistical Analysis
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects applying statistical methods such as hypothesis testing, ANOVA, regression analysis, descriptive statistics, and nonparametric methods to analyze and interpret data.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applied descriptive and inferential statistical methods, including hypothesis testing, ANOVA, regression analysis, and nonparametric methods, to evaluate relationships, test research hypotheses, and support data-driven conclusions.</p>
 
 ### 🐍 Statistical Programming
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python and R projects demonstrating statistical computation, data manipulation, exploratory analysis, and implementation of statistical methods.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developed statistical programs and analytical workflows using Python and R to perform statistical computation, data manipulation, exploratory analysis, and implementation of statistical methods, improving the efficiency and reproducibility of analytical tasks.</p>
 
 ### 🔬 Quantitative Research
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research projects involving survey data, statistical methodology, quantitative analysis, and interpretation of research findings.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conducted quantitative research involving survey data, statistical methodology, and data analysis to evaluate research questions, interpret statistical findings, and generate evidence-based conclusions.</p>
 
 ### 📊 Data Visualization
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects focused on presenting analytical findings through charts, dashboards, and visual reports using Excel, Power BI, Python, and other visualization tools.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created charts, dashboards, and visual reports using Excel, Power BI, and Python to communicate analytical findings, highlight trends and patterns, and make complex datasets easier to interpret.</p>
 
 ## Education
 
@@ -75,3 +75,22 @@
   ### BACHELOR OF SCIENCE IN STATISTICS
 📍 Philippines  🎓 ***BS Statistics Graduate***
 </div>
+
+## 📈 What I'm Currently Building
+
+- ### 🐍 Strengthening my Python skills for data analysis
+
+- ### 🗄️ Improving SQL for data querying and manipulation
+
+- ### 📊 Developing data visualization and dashboard skills
+
+- ### 🔬 Expanding my statistical research portfolio
+
+- ### 💼 Building real-world data analytics projects
+
+## 🤝 Let's Connect
+
+>I'm open to opportunities in:
+>Data Analytics • Data Research • Business Intelligence • Statistical Analysis • Research
+
+> # 📫 Feel free to connect with me through LinkedIn or explore my repositories below.
