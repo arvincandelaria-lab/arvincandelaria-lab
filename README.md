@@ -64,3 +64,14 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects focused on presenting analytical findings through charts, dashboards, and visual reports using Excel, Power BI, Python, and other visualization tools.</p>
 
+## Education
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7b599c29-8773-4f0a-8083-5012352fa5dd" width="800" height="400">
+</div>
+
+<div align="center">
+
+  ### BACHELOR OF SCIENCE IN STATISTICS
+📍 Philippines  🎓 ***BS Statistics Graduate***
+</div>
