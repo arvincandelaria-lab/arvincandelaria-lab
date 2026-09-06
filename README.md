@@ -93,7 +93,7 @@
 <sub>Click below to explore how I demonstrate these skills through my professional experience.</sub>
 
 <details>
-<summary><strong></strong>💼 Professional Experience</strong></summary>
+<summary><strong>💼 Professional Experience</strong></summary>
 
 ### Escalation / Problem Resolution Support
 *IBEX - Logistics Services*
