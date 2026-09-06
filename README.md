@@ -33,8 +33,6 @@
 
 </div>
 
-
-
 ## 🛠️ Skills & Tools
 
 <sub>Click the sections below to explore my technical skills and areas of expertise.</sub>
