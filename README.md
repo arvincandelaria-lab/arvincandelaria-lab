@@ -11,35 +11,29 @@
 ## Education
 <img width="1774" height="750" alt="9cd2eabd-9401-407c-aee3-a98fd89a4dba" src="https://github.com/user-attachments/assets/6a3a72c2-58b3-41d5-bf7f-49c028747ea3" />
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center" valign="middle" width="130">
+<p>
 <img src="https://github.com/user-attachments/assets/ae89fb0a-cd62-4b9d-bebc-81ce3690b421"
      width="90"
-     style="border-radius: 50%;">
-</td>
+     align="left">
 
-<td align="center" valign="middle">
-
-<h1><strong>BACHELOR OF SCIENCE IN STATISTICS</strong></h1>
-
-<h3>
-<span style="font-weight: normal;">📍 Philippines</span>
-&nbsp;&nbsp;
-<strong>🎓 BS Statistics Graduate</strong>
-</h3>
-
-</td>
-
-<td align="center" valign="middle" width="130">
 <img src="https://github.com/user-attachments/assets/286335f1-31a7-4956-b86b-3c3cc2c56e8a"
      width="90"
-     style="border-radius: 50%;">
-</td>
+     align="right">
+<h1 align="center">
+  BACHELOR OF SCIENCE IN STATISTICS
+</h1>
 
-</tr>
-</table>
+<p align="center" style="margin-top: 0;">
+  <span>📍 Philippines</span>
+  &nbsp;&nbsp;
+  <strong>🎓 BS Statistics Graduate</strong>
+</p>
+
+</div>
+
+
 
 ## 🛠️ Skills & Tools
 
