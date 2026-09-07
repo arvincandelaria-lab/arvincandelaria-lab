@@ -8,6 +8,27 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I am strengthening my <strong>Python, SQL, statistical programming, and data visualization</strong> skills while building practical analytics and research projects.</p>
 
+<details>
+<summary><strong>🧭 Professional Gateway</strong></summary>
+
+<br>
+
+For recruiters, hiring managers, and talent acquisition professionals:
+
+Explore my targeted professional profiles and access the appropriate resume based on the position you are hiring for.
+
+🌐 *[Open My Professional Resume Portal](https://arvincandelaria-lab.github.io/recruiter-resume-portal/)*
+
+The portal provides dedicated resume profiles for:
+
+- 📊 Data Analyst
+- 📈 Research Analyst
+- 👥 Workforce Analyst
+
+You may also use the portal to send a professional inquiry or resume request.
+
+</details>
+
 ## Education
 <img width="1774" height="750" alt="9cd2eabd-9401-407c-aee3-a98fd89a4dba" src="https://github.com/user-attachments/assets/6a3a72c2-58b3-41d5-bf7f-49c028747ea3" />
 
